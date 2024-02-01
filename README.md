@@ -1,2 +1,2 @@
-# boilerplates
-Im so lazy
+# Boilerplates
+Im so lazy, especially when i have to begin
