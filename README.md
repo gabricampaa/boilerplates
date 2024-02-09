@@ -8,5 +8,5 @@ git clone -b C https://github.com/gabricampaa/boilerplates.git
 
 ## Python
 ```bash
-git clone -b PYTHON https://github.com/gabricampaa/boilerplates.git
+git clone -b Python https://github.com/gabricampaa/boilerplates.git
 ```
