@@ -1,3 +1,0 @@
-void myfunc(){
-//code
-}
